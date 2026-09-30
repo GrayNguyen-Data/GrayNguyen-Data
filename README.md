@@ -46,7 +46,7 @@ My focus is on building **end-to-end AI solutions** — from data processing and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,mongodb,nginx,vscode,pycharm,postman&perline=13" />
+    <img src="https://skillicons.dev/icons?i=aws,nginx,vscode,postman&perline=13" />
   </a>
 </p>
 
