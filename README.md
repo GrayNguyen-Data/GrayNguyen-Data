@@ -20,7 +20,6 @@
 
 </div>
 
-
 ## 🧠 About Me
 
 I'm an **AI Software Engineer in progress** with hands-on experience in **LLM applications, RAG chatbots, NLP, and backend services**.
@@ -29,9 +28,31 @@ My current focus is on combining **AI engineering with strong software engineeri
 
 * 🔭 Building **RAG pipelines, LLM applications, and AI backend services**
 * 🧠 Exploring **LLM Agents, LangGraph, and Agentic AI**
+* 🔬 Researching **GoutMAS**, an AI research project focused on **Traditional Vietnamese Medicine (YHCT), knowledge representation, and intelligent clinical knowledge systems**
+* 🕸️ Exploring **Knowledge Graphs, evidence-based knowledge modeling, and semantic reasoning** for Gout-related YHCT knowledge
 * ⚙️ Strengthening **Java, Spring Boot, backend architecture, and system design**
 * ☁️ Working with **AWS, Docker, Linux, and data engineering technologies**
 * 🎯 Goal: **Build and ship production-ready AI products end-to-end**
+
+## 🔬 Current Research — GoutMAS
+
+**GoutMAS** is an ongoing research project exploring how **Artificial Intelligence and Knowledge Graphs** can be applied to **Traditional Vietnamese Medicine (YHCT)** knowledge related to Gout.
+
+The research focuses on structuring and connecting:
+
+```text
+Symptoms / Clinical Signs
+          ↓
+      YHCT Patterns
+          ↓
+  Treatment Principles
+          ↓
+       Formulas
+          ↓
+        Herbs
+```
+
+The long-term goal is to build an **evidence-based YHCT knowledge system** that can support knowledge retrieval, semantic reasoning, and AI-assisted analysis while maintaining traceability to the underlying scientific literature and traditional medicine sources.
 
 ## 🛠️ Tech Stack
 
@@ -74,7 +95,6 @@ My current focus is on combining **AI engineering with strong software engineeri
 * Integrated AI services with **APIs, databases, and business systems**
 * Analyzed conversation logs and user interactions to improve chatbot behavior
 * Worked across the AI application pipeline from **retrieval → generation → API integration**
-
 
 ## 🎓 Education & Activities
 
