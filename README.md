@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 </div>
 
 
@@ -54,7 +53,7 @@ My current focus is on combining **AI engineering with strong software engineeri
 <img src="https://img.shields.io/badge/Vector%20Search-00A67E?style=for-the-badge" />
 
 <br />
-
+</div>
 ### ⚙️ Software Engineering
 
 <div align="center">
