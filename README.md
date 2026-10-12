@@ -88,9 +88,9 @@ My current focus is on combining **AI engineering with strong software engineeri
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GrayNgu…hide_border=true&include_all_commits=true&count_private=true" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=GrayNgu…hide_border=true&include_all_commits=true&count_private=true" /> -->
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?usern…yout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?usern…yout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> -->
 
 <br />
 
