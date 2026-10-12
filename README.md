@@ -57,13 +57,19 @@ My current focus is on combining **AI engineering with strong software engineeri
 
 ### ⚙️ Software Engineering
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,pytorch,tensorflow,sklearn&perline=10" />
+<div align="center">
 
-<br />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,pytorch,tensorflow,sklearn&perline=10" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,git,github,linux,postman,aws&perline=10" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,git,github,linux,postman,aws&perline=10" height="48" alt="Tech stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" height="48" width="48" alt="Neo4j" />
+</p>
 
 </div>
+
 
 ## 💼 Experience
 
